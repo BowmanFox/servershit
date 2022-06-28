@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/arms/fbi/sov_tank_crew_0_co"
+	"$bumpmap" "models/weapons/v_models/arms/fbi/sov_tank_crew_0_co_n"
+	"$surfaceprop" "Flesh"
+	"$surfaceprop2" "Computer"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"include" "materials/models/weapons/v_models/arms/glove_hardknuckle/ctm_fbi_shared.vmt"
+	"insert"
+	{	
+	"$baseTexture" "models/weapons/v_models/arms/glove_hardknuckle/ct_fbi_head_variantC"
+	"$bumpmap" "models/weapons/v_models/arms/glove_hardknuckle/ct_fbi_head_normal_variantC"
+	
+	"$phongexponenttexture" "models/weapons/v_models/arms/glove_hardknuckle/ct_fbi_head_exponent_variantC"
+	"$rimmask" "1"
+"$nodecal" 1
+	}	
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/ct_fbi/eyes_yellow_highlights_bc"
+	"$translucent" 1
+}

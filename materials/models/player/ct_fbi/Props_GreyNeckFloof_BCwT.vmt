@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/ct_fbi/Props_GreyNeckFloof_BCwT"
+	"$translucent" 1
+}

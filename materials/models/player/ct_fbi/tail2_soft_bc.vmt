@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/ct_fbi/Tail2_Wolf_Soft_BC"
+	"$surfaceprop" "Flesh"
+}

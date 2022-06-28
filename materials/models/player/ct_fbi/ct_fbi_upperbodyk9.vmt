@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/ct_fbi/ct_fbi_upperbody"
+	"$bumpmap" "models/player/ct_fbi/ct_fbi_upperbody_normal"
+		
+	"$phongexponenttexture" "models/player/ct_fbi/ct_fbi_upperbody_exponent"
+	"$rimmask" "1"
+		
+}

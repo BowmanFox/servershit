@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/ct_fbi/sov_tank_crew_0_co"
+	"$bumpmap" "models/player/Boban/sov_tank_crew_0_co_n"
+	"$surfaceprop" "Flesh"
+	"$surfaceprop2" "Computer"
+}

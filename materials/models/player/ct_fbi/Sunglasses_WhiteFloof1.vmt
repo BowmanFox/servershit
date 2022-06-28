@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/ct_fbi/props_whiteneckfloof_bc"
+	"$bumpmap" "models/player/ct_fbi/Props_N"
+	"$surfaceprop" "Flesh"
+	"$surfaceprop2" "Computer"
+}

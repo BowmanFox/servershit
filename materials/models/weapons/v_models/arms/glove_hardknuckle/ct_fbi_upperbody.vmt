@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{	
+	"$baseTexture" "models/weapons/v_models/arms/glove_hardknuckle/ct_fbi_upperbody"
+	"$bumpmap" "models/weapons/v_models/arms/glove_hardknuckle/ct_fbi_upperbody_normal"
+		
+	"$phongexponenttexture" "models/weapons/v_models/arms/glove_hardknuckle/ct_fbi_upperbody_exponent"
+	"$rimmask" "1"
+}

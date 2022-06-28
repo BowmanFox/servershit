@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/arms/glove_hardknuckle/props_whiteneckfloof_bc"
+	"$bumpmap" "models/weapons/v_models/arms/glove_hardknuckle/Props_N"
+	"$surfaceprop" "Flesh"
+	"$surfaceprop2" "Computer"
+}

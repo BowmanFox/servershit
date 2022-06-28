@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/arms/glove_hardknuckle/eyes_yellow_highlights_bc"
+	"$translucent" 1
+}

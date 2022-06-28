@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/ct_fbi/sov_tank_crew_0_co"
+	"$surfaceprop" "Flesh"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/BowmanWeen/Player/Props_GreyNeckFloof_BCwT"
+	"$translucent" 1
+}
